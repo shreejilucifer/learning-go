@@ -8,3 +8,4 @@
 4. map
 5. interfaces
 6. http
+7. channels
